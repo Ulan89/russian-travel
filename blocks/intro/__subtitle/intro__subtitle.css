@@ -1,0 +1,14 @@
+.intro__subtitle{
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 26.08px;
+    max-width: 690px;
+    margin: 0 0 33px;
+
+}
+@media screen and (max-width: 650px){
+    .intro__subtitle{
+        margin: 0 0 34px;
+    }
+}

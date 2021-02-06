@@ -1,0 +1,18 @@
+.lead__description{
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-top: 8px;
+}
+@media screen and (max-width: 768px){
+    .lead__description{
+        padding: 0 24px;
+    }
+}
+@media screen and (max-width: 425px){
+    .lead__description{
+        padding: 0 16px;
+    }
+}

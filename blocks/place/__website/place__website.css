@@ -1,0 +1,12 @@
+.place__website{
+    display: grid;
+    justify-content: flex-start;
+    align-content: flex-end;
+    row-gap: 12px;
+
+}
+@media screen and (max-width: 425px){
+    .place__website{
+        padding: 0 16px;
+    }
+}

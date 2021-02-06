@@ -1,0 +1,13 @@
+.places__border{
+    margin: 92px auto;
+}
+@media screen and (max-width: 768px){
+    .places__border{
+        margin: 88px auto 90px;
+    }
+}
+@media screen and (max-width: 580px){
+    .places__border{
+        margin: 64px auto 66px;
+    }
+}

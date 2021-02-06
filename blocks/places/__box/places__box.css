@@ -1,0 +1,17 @@
+.places__box{
+    margin-bottom: 80px;
+}
+
+@media screen and (max-width: 768px){
+    .places__box{
+        margin-bottom: 73px;
+    }
+}
+@media screen and (max-width: 425px){
+    .places__box{
+        margin-bottom: 50px;
+    }
+}
+.places__box:last-child{
+    margin-bottom: 0px;
+}

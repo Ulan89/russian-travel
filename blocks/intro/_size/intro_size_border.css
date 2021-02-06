@@ -1,0 +1,13 @@
+.intro_size_border{
+    margin: 92px auto;
+}
+@media screen and (max-width: 768px){
+    .intro_size_border{
+        margin: 88px auto;
+    }
+}
+@media screen and (max-width: 650px){
+    .intro_size_border{
+        margin: 64px auto;
+    }
+}

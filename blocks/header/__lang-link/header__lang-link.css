@@ -1,0 +1,24 @@
+.header__lang-link{
+    font-style: normal;
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 28px;
+    color: #ffffff;
+    margin: 0 18px 0;
+    text-align: right;
+    
+    
+}
+.header__lang-link:last-child{
+    margin-right: 0px;
+}
+.header__lang-link_active{
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 425px){
+    .header__lang-link{
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

@@ -1,0 +1,8 @@
+.photo-grid_size_border{
+    margin: 92px 0px;
+}
+@media screen and (max-width: 571px){
+    .photo-grid_size_border{
+        margin: 64px auto;
+    }
+}
