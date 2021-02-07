@@ -16,13 +16,13 @@
     .lead__subtitle{
         font-size: 20px;
         line-height: 24px;
+        max-width: 288px;
     }
 }
 @media screen and (max-width: 500px){
     .lead__subtitle{
         font-size: 16px;
         line-height: 20px;
-        max-width: 288px;
         margin: 0 auto 40px;
         transition: 2s linear;
         

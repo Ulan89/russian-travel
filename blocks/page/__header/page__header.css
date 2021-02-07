@@ -1,18 +1,18 @@
-.section__header{
+.page__header{
     margin: 0 auto;
 }
 @media screen and (max-width: 1184px){
-    .section__header{
+    .page__header{
         padding: 0 48px;
     }
 }
 @media screen and (max-width: 768px){
-    .section__header{
+    .page__header{
         padding: 0 24px;
     }
 }
 @media screen and (max-width: 425px){
-    .section__header{
+    .page__header{
         padding: 0 16px;
     }
 }

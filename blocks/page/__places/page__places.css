@@ -1,22 +1,22 @@
-.section__places{
+.page__places{
     max-width: 984px;
     margin: 0 auto;
 }
 @media screen and (max-width: 1024px){
-    .section__places{
+    .page__places{
         max-width: calc(100% - 48px*2);
         
 
     }
 }
 @media screen and (max-width: 768px){
-    .section__places{
+    .page__places{
         max-width: calc(100% - 24px*2);
         
     }
 }
 @media screen and (max-width: 425px){
-    .section__places{
+    .page__places{
         
         max-width: 100%;
         
