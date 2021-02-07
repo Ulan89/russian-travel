@@ -4,7 +4,7 @@
 @import url('../blocks/page/__wrapper/page__wrapper.css');
 @import url('../blocks/page/__header/page__header.css');
 @import url('../blocks/section/section.css');
-@import url('../blocks/section/_size/section_size_tight.css');
+@import url('../blocks/content/__lead/content__lead.css');
 @import url('../blocks/section/_type/section_type_tablet.css');
 @import url('../blocks/page/__footer/page__footer.css');
 @import url('../blocks/section-title/section-title.css');
@@ -44,7 +44,7 @@
 @import url('../blocks/places/places.css');
 @import url('../blocks/places/__boxes/places__boxes.css');
 @import url('../blocks/places/__box/places__box.css');
-@import url('../blocks/places/__border/places__border.css');
+@import url('../blocks/content/__places/content__places.css');
 @import url('../blocks/place/place.css');
 @import url('../blocks/place/__website/place__website.css');
 @import url('../blocks/place/__url-heading/place__url-heading.css');

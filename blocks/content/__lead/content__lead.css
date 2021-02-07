@@ -1,22 +1,22 @@
-.section_size_tight{
+.content__lead{
     max-width: 984px;
     margin: 0 auto;
 }
 @media screen and (max-width: 1024px){
-    .section_size_tight{
+    .content__lead{
         max-width: calc(100% - 48px*2);
         
 
     }
 }
 @media screen and (max-width: 768px){
-    .section_size_tight{
+    .content__lead{
         max-width: calc(100% - 24px*2);
         
     }
 }
 @media screen and (max-width: 425px){
-    .section_size_tight{
+    .content__lead{
         
         max-width: calc(100% - 16px*2);
         
