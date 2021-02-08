@@ -1,21 +1,23 @@
 .footer__link{
     text-decoration: none;
     padding-right: 18px;
-    font-family: Inter;
+    font-family: 'Inter', ‘Arial’, sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 18px;
     color: #ffffff;
     display: block;
+    transition: 0.3s;
+}
+.footer__link:hover {
+  opacity: 0.8;
 }
 @media screen and (max-width: 580px){
     .footer__link{
         font-size: 24px;
         line-height: 24px;
-        
         display: block;
-    }
-   
+    }  
 }
 

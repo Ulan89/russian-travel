@@ -2,17 +2,17 @@
     .page__footer {
       padding: 0 48px;
     }
-  }
+}
   
-  @media screen and (max-width: 768px){
+@media screen and (max-width: 768px){
     .page__footer {
       padding: 0 24px;
     }
-  }
+}
   
-  @media screen and (max-width: 425px){
+@media screen and (max-width: 425px){
     .page__footer {
       padding: 0 16px;
     }
-  }
+}
 

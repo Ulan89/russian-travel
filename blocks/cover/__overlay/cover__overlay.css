@@ -11,6 +11,7 @@
     z-index: 2;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .cover__overlay::before{
@@ -30,25 +31,16 @@
 }
 @media screen and (max-width: 1140px){
     .cover__overlay{
-        min-height: 650px;
-        
-        
-        
+        min-height: 640px;    
     }
 }
 @media screen and (max-width: 984px){
     .cover__overlay{
-        min-height: 465px;
-        
-        
-        
+        min-height: 480px;   
     }
 }
 @media screen and (max-width: 570px){
     .cover__overlay{
-        min-height: 230px;
-        
-        
-        
+        min-height: 200px;    
     }
 }

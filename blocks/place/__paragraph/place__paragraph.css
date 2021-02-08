@@ -11,17 +11,15 @@
 }
 @media screen and (max-width:1024px){
     .place__paragraph{
-        row-gap: 27px;
-        
+        row-gap: 27px;    
     }
 }
 @media screen and (max-width: 768px){
     .place__paragraph{
         row-gap: 25px;
         font-size: 16px;
-        line-height: 26.08px;
-    }
-    
+        line-height: 26px;
+    }   
 }
 @media screen and (max-width: 425px){
     .place__paragraph{

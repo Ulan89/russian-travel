@@ -3,11 +3,11 @@
     color: #ffffff;
     font-size: 18px;
     line-height: 122%;
+    display: block;
+    transition: 0.3s;
     
 }
-.place__link_status_on{
-    text-decoration: underline;
+.place__link:hover {
+  opacity: 0.8;
 }
-.place__link_status_on:hover{
-    opacity: 0.8;
-}
+

@@ -2,22 +2,21 @@
     display: grid;
     grid-template-columns: 460px fit-content(484px);
     gap: 48px 40px;
-   
-
 }
+
 @media screen and (max-width:1024px){
     .place{
         column-gap: 32px;
-        grid-template-columns: 440px fit-content(484px);
+        grid-template-columns: 440px 1fr;
     }
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 920px){
     .place{
         column-gap: 28px;
-        grid-template-columns: 340px fit-content(484px);
+        grid-template-columns: 340px 1fr;
     }
 }
-@media screen and (max-width:700px){
+@media screen and (max-width: 700px){
     .place{
         grid-template-columns: 1fr;
     }
@@ -26,7 +25,5 @@
     .place{
         row-gap: 32px;
       
-    }
-    
-        
+    }       
 }

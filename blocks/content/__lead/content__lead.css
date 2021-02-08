@@ -5,20 +5,16 @@
 @media screen and (max-width: 1024px){
     .content__lead{
         max-width: calc(100% - 48px*2);
-        
-
     }
 }
 @media screen and (max-width: 768px){
     .content__lead{
-        max-width: calc(100% - 24px*2);
-        
+        max-width: calc(100% - 24px*2);    
     }
 }
 @media screen and (max-width: 425px){
     .content__lead{
         
-        max-width: calc(100% - 16px*2);
-        
+        max-width: calc(100% - 16px*2);   
     }
 }
